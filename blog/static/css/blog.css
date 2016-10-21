@@ -1,5 +1,5 @@
 .page-header {
-  background-color: #ff9400;
+  background-color: #b4120f;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
@@ -28,6 +28,13 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hoover, .top-menu:visited {
+  color: #ffffff;
+  float: right;
+  font-size: 26pt;
+  margin-right: 20px;
+}
+
+.plus {
   color: #ffffff;
   float: right;
   font-size: 26pt;
